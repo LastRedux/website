@@ -128,7 +128,7 @@ a.button img {
 }
 
 video {
-  /* border-radius: 8px; */
+  border-radius: 9px;
   filter: drop-shadow(0px 18px 50px rgba(0, 0, 0, 0.52));
 
   width: 50vw;
